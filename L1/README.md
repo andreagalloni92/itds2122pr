@@ -1,6 +1,5 @@
 # Practical \#1 
-## A Quick Introduction to Python3.x
-
+## A Quick Introduction to Python3.x 20210909
 The first practical is about Python, just quick introduction in order to refresh it's main concept. 
 
 **Main Points:**
@@ -18,3 +17,6 @@ The first practical is about Python, just quick introduction in order to refresh
  - Lambda expressions
  - Map and ﬁlter
 
+---
+Andrea Galloni
+andrea.galloni@inf.elte.hu
