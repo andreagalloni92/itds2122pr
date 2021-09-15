@@ -46,7 +46,7 @@ You have two options:
 
 ----
 **Table of Contents of the Fall Semester:**
-- Week 1 Introduction
+- Week 1 [Quick Introduction to Python3.x](L1/)
 - Week 2 NumPy (/SciPy)
 - Week 3 Pandas
 - Week 4 Matplotlib
