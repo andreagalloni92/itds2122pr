@@ -26,7 +26,7 @@ _**IMPORTANT NOTE: This repository is going to contain both lessons files bult a
 *It is important for you to familiarize with git because it's something usefull and wide spread as a tool around the IT community.*
 
 #### Second Method \[not suggested\]:
-1. Click on the <span color="green">Code button in green</span> (top-right)
+1. Click on the <span style="color:green;">Code button in green</span> (top-right)
 2. Click on Download Zip
 4. Unzip and enjoy!
 3. Every time there is an update you will need to download everything from scratch.
