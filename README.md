@@ -35,13 +35,17 @@ _**IMPORTANT NOTE: This repository is going to contain both lessons files bult a
 You have two options:
 1. Install Jupyter notebook locally:
     - [Installation Guide](https://jupyter.org/install.html)
+    - launch and navigate over the appropriate filder
+    - open the appropriate `L*.ipynb` file
+    - edit, run, comment and enjoy the learning journey!
 
 2. Use [Google Research Colab](https://colab.research.google.com/):
-    - Create a [Google account](https://accounts.google.com/signup/v2/webcreateaccount?hl=en&flowName=GlifWebSignIn&flowEntry=SignUp) if you don't have one yet 
+    - Create a [Google account](https://accounts.google.com/signup/v2/webcreateaccount?hl=en&flowName=GlifWebSignIn&flowEntry=SignUp) if you don't have one yet
     - Upload the specific notebook and the related files if needed.
+    - edit, run, comment and enjoy the learning journey!
 
 ----
-**Table of Contents:**
+**Table of Contents of the Fall Semester:**
 - Week 1 Introduction
 - Week 2 NumPy (/SciPy)
 - Week 3 Pandas
