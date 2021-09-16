@@ -14,9 +14,6 @@ The second practical is about NumPy: a scientific library for Python.
  - Reshaping, Concatenation, Stacking, Splitting
  - Loops, Universal Functions
  - Operators
- - Functions
- - Lambda expressions
- - Map and ﬁlter
 
 ---
 Andrea Galloni
