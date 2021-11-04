@@ -35,7 +35,7 @@ _**IMPORTANT NOTE: This repository is going to contain both lessons files bult a
 You have two options:
 1. Install Jupyter notebook locally:
     - [Installation Guide](https://jupyter.org/install.html)
-    - launch and navigate over the appropriate filder
+    - launch and navigate over the appropriate folder
     - open the appropriate `L*.ipynb` file
     - edit, run, comment and enjoy the learning journey!
 
